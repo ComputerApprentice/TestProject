@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CSC240_06_01_BedAndBreakfast_DG
 {
-    public partial class Form2 : Form
+    public partial class BreakfastOptionForm : Form
     {
-        public Form2()
+        public BreakfastOptionForm()
         {
             InitializeComponent();
         }
