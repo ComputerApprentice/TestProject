@@ -20,8 +20,8 @@ namespace CSC240_06_01_BedAndBreakfast_DG
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
-            // ApplicationConfiguration.Initialize();
-            Application.EnableVisualStyles();
+            // ApplicationConfiguration.Initialize();   -- removed .NET 8.0 code
+            Application.EnableVisualStyles();           // added back previous .NET code
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new UxBaileysForm());
         }
