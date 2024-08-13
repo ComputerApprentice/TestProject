@@ -1,6 +1,6 @@
 ﻿namespace CSC240_06_01_BedAndBreakfast_DG
 {
-    partial class Form2
+    partial class BreakfastOptionForm
     {
         /// <summary>
         /// Required designer variable.
